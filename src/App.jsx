@@ -7,9 +7,7 @@ const App = () => {
     <>
       <Navbar />
       <Hero />
-      <div className="max-w-7xl mx-10 md:mx-40">
-        <Product />
-      </div>
+      <Product />
     </>
   );
 };
