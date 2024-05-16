@@ -7,7 +7,7 @@ gsap.registerPlugin(useGSAP);
 const Hero = () => {
   useGSAP(() => {
     gsap.set("#herobg", {
-      scale: 1,
+      scale: 0.9,
     });
   });
   useGSAP(() => {
@@ -52,6 +52,11 @@ const Hero = () => {
               Reiciendis at, nulla minima, deserunt exercitationem quibusdam,
               tempore nihil repellendus molestias eum neque temporibus et ab
               rem?
+              <br />
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              adipisci minus debitis, nam numquam tempore voluptas ipsum
+              voluptatem placeat quaerat. Voluptatum vero id quia non
+              consequuntur. Adipisci perspiciatis nesciunt eligendi.
             </p>
           </div>
 
