@@ -5,7 +5,7 @@ const Product = () => {
   return (
     <div>
       <>
-        <div className="w-100 mx-5npx shadcn-ui@latest add dialog md:mx-28 h-screen">
+        <div className="w-100 mx-5 md:mx-28 h-screen">
           <div className="flex flex-col justify-center">
             <h2 className="text-6xl  font-bold tracking-tight antialiased">
               PRODUCT

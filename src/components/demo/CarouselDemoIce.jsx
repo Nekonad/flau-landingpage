@@ -38,6 +38,7 @@ export function CarouselDemoIce() {
                     className=" hover:scale-110 w-full h-full ease-in-out duration-300  bg-center bg-cover "
                     src={item.image}
                   ></img>
+                  <span className="text-4xl font-semibold">{item.title}</span>
                 </CardContent>
               </button>
             </div>
